@@ -3,7 +3,7 @@ This projects was meant to demonstrate some of the relevant skills needed as a D
 ## Salary Dashboard  
 This helps job seekers compare the median salary of all data jobs in different countries. It allows them to filter for the job title, the country of posting and the job schedule type, thus whether they are full-time, part-time,temprary work or even internship.  
 [See Details here](project1)  
-![final salary Dashboard](project)    
+![final salary Dashboard](Data_Salary_Dashboard.gif)    
 
 ## Salary Analysis  
 This project set to understand, for every Data job what are the top skills required to get employed and also as to whether the number of skills required for each job would have an effect on the Average Salary to be expected.  
